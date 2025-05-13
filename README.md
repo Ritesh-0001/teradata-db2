@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # IBM AI Database Migration Tool
 
@@ -78,3 +79,6 @@ yarn add @carbon/react @carbon/styles
 3. Database connection management
 4. SQL script management and conversion
 5. Migration execution and validation
+=======
+# teradata-db2
+>>>>>>> 5121533f96e9b4fd9210f65abefdd309dbfa5249
